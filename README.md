@@ -26,4 +26,4 @@ You are assigned as Lead Investigators with the Cyber Crime Task Force.
 
 - Review the subject status dossier: [`Dr_Elene_Rostova_status.md`](./Dr_Elene_Rostova_status.md)
 - Review the evidence collected.
-- Use [`git_cheat_sheet.md`](./git_cheat_sheet.md) to navigate repositories and audit version control history.
+- Use [`git_cheat_sheet.md`](./internals/git_cheat_sheet.md) to navigate repositories and audit version control history.
