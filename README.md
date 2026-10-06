@@ -1,23 +1,29 @@
-# CYBER CRIME TASK FORCE // CASE FILE CCTF-27A
-**CLASSIFICATION:** LAW ENFORCEMENT SENSITIVE  
-**DATE:** OCTOBER 1, 2026  
-**STATUS:** ACTIVE INVESTIGATION  
+# TASK FORCE MISSION DIRECTIVE
+
+**CASE:** CCTF-2026-CASE-27A  
+**OPERATIONAL ROLE:** LEAD CYBER INVESTIGATORS  
+**CLASSIFICATION:** LAW ENFORCEMENT SENSITIVE
 
 ---
 
-### CASE SUMMARY
+### 1. MISSION BRIEFING
 
-* **Date & Location:** October 1, 2026 | Nexus Dynamics, Building B, Room 304
-* **Subject:** Dr. Elena Rostova (Head Security Specialist)
-* **The Incident:** Dr. Rostova disappeared from her office. Her computer workstation was left running an active countdown timer connected to an online public folder named **project Aether Archive**.
-* **Your Role:** Lead Investigators, Cyber Crime Task Force (CCTF).
-* **The Core Mystery:** Was Elena kidnapped by business rivals, or did she hide on purpose to expose an illegal secret surveillance program called **SENTINEL-AI** built inside the company?
+On October 1, 2026, Dr. Elena Rostova, Head Security Specialist at Nexus Dynamics, vanished from her office in Building B, Room 304. Her workstation was left running a countdown timer connected to an online public folder named **project Aether Archive**.
+
+You are assigned as Lead Investigators with the Cyber Crime Task Force.
 
 ---
 
-### CASE FILES
+### 2. PRIMARY OBJECTIVES
 
-* [Dr_Elene_Rostova_status.md](./Dr_Elene_Rostova_status.md) — Subject profile and current status assessment.
-* [incident_report.md](./incident_report.md) — Preliminary scene and workstation inspection report.
-* [mission.md](./mission.md) — Task force operational directive and core objectives.
-* [git_cheat_sheet.md](./git_cheat_sheet.md) — Reference guide for repository navigation and git forensics.
+1. **Investigate the Disappearance:** Establish the facts surrounding Dr. Rostova's disappearance from Building B, Room 304.
+2. **Resolve the Core Mystery**
+3. **Examine the Digital Footprint:** Inspect digital traces left on the workstation and its connected public repository folder.
+
+---
+
+### 3. IMMEDIATE DIRECTIVES
+
+- Review the subject status dossier: [`Dr_Elene_Rostova_status.md`](./Dr_Elene_Rostova_status.md)
+- Review the evidence collected.
+- Use [`git_cheat_sheet.md`](./git_cheat_sheet.md) to navigate repositories and audit version control history.
