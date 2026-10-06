@@ -8,7 +8,7 @@
 
 ### 1. MISSION BRIEFING
 
-On October 1, 2026, Dr. Elena Rostova, Head Security Specialist at Nexus Dynamics, vanished from her office in Building B, Room 304. Her workstation was left running a countdown timer connected to an online public folder named **project Aether Archive**.
+On October 1, 2026, Dr. Elena Rostova, Head Security Specialist at Nexus Dynamics, vanished from her office in Building B, Room 304. Her workstation was left running a countdown timer connected to an online public folder named **Aether Archive**.
 
 You are assigned as Lead Investigators with the Cyber Crime Task Force.
 
