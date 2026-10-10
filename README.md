@@ -8,8 +8,7 @@
 
 ### 1. MISSION BRIEFING
 
-On October 1, 2026, Dr. Elena Rostova, Head Security Specialist at Nexus Dynamics, vanished from her office in Building B, Room 304. Her workstation was left running a countdown timer connected to an online public folder named **Aether Archive**.
-
+On October 1, 2026, Dr. Elena Rostova, Head Security Specialist at Nexus Dynamics, vanished from her office in Building B, Room 304 with her workstation left running.
 You are assigned as Lead Investigators with the Cyber Crime Task Force.
 
 ---
@@ -24,6 +23,19 @@ You are assigned as Lead Investigators with the Cyber Crime Task Force.
 
 ### 3. IMMEDIATE DIRECTIVES
 
-- Review the subject status dossier: [`Dr_Elene_Rostova_status.md`](./Dr_Elene_Rostova_status.md)
-- Review the evidence collected.
 - Use [`git_cheat_sheet.md`](./internals/git_cheat_sheet.md) to navigate repositories and audit version control history.
+
+## HANDLING NOTE
+
+All recovered material must be treated as original evidence.
+Some evidence may not identify itself clearly.
+_A file that refuses to tell you what it is may still be telling you something._
+Investigators are expected to determine the correct _format_ of any unidentified evidence before attempting to examine its contents.
+
+---
+
+**CCTF EVIDENCE CONTROL**
+
+Unauthorized access, modification or distribution of recovered material is prohibited.
+
+**CASE STATUS: ACTIVE**

@@ -19,5 +19,4 @@
 ### 2. CURRENT STATUS & SITUATION
 
 Dr. Elena Rostova disappeared from her office in Building B, Room 304 on October 1, 2026.
-
-Responding personnel found the office unlocked and unoccupied. Her workstation was left powered on, executing an active countdown timer linked to an online public folder labeled **Aether Archive**. There were no physical signs of a violent struggle at the scene.
+Responding personnel found the office unlocked and unoccupied.
